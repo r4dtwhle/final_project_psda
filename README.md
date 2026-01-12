@@ -1,4 +1,4 @@
-\## 🎓 Algoritma yang Digunakan
+\##  Algoritma yang Digunakan
 
 
 
